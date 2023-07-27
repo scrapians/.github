@@ -1,6 +1,7 @@
 ## Hi there 👋
-🙋‍♀️ We are scrapians we build custom web scrapers from simple to complex.
-👩‍💻 We use mostly Scrapy for web scraping
+🙋‍♀️ We are scrapians we build custom web scrapers, web automation, bot from simple to complex.
+
+👩‍💻 We use mostly Python (Scrapy) for web scraping
 <!--
 
 **Here are some ideas to get you started:**
